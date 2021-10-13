@@ -1,1 +1,3 @@
-# Rise_SC
+# Rise smart contract in solidity
+Welcome
+
